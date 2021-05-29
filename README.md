@@ -1,4 +1,4 @@
-# A better singup page for parler.com
+# A better signup page for parler.com
 
 https://user-images.githubusercontent.com/54396490/120065706-66044b80-c07b-11eb-8abd-523087edcc32.mov
 
